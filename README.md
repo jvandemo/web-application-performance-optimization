@@ -8,8 +8,8 @@ Feel free to use them to your liking.
 
 Checklist for optimizing non-JavaScript parts in a web application.
 
-- [PDF version](pdf/web-application-performance-optimization-non-js.pdf) for print.
-- [Keynote version](pdf/web-application-performance-optimization-non-js.key) in case you want to change it to your liking.
+- [PDF version](web-application-performance-optimization-non-js/web-application-performance-optimization-non-js.pdf) for print.
+- [Keynote version](web-application-performance-optimization-non-js/web-application-performance-optimization-non-js.key) in case you want to change it to your liking.
 
 Inspired by "[CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA)" from CSSconf EU 2014 by [@addyosmani](https://twitter.com/addyosmani).
 
