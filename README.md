@@ -15,5 +15,5 @@ Inspired by "[CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBa
 
 Contains a score card that can be used to track performance over iterations.
 
-[![](http://i.imgur.com/aNjIbyq.png)](pdf/web-application-performance-optimization-non-js.pdf)
+[![](http://i.imgur.com/aNjIbyq.png)](web-application-performance-optimization-non-js/web-application-performance-optimization-non-js.pdf?raw=true)
 
